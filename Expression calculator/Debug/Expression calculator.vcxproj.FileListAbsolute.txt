@@ -1,0 +1,2 @@
+D:\DHARSHAN\newproj\C++\Expression calculator\Debug\Expression calculator.exe
+D:\DHARSHAN\newproj\C++\Expression calculator\Debug\Expression calculator.pdb

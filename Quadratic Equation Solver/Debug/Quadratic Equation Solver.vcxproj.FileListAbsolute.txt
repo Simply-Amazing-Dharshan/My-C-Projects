@@ -1,0 +1,2 @@
+D:\DHARSHAN\newproj\C++\Quadratic Equation Solver\Debug\Quadratic Equation Solver.exe
+D:\DHARSHAN\newproj\C++\Quadratic Equation Solver\Debug\Quadratic Equation Solver.pdb

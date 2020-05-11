@@ -1,0 +1,2 @@
+﻿  Scratch.cpp
+D:\DHARSHAN\newproj\C++\Scratch\Scratch\Scratch.cpp(7): error C4700: uninitialized local variable 'b' used
